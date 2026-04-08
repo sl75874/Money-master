@@ -1,0 +1,9 @@
+FastAPI
+SQLAlchemy
+psycopg2
+python-dotenv
+pydantic
+PyJWT
+python-multipart
+email-validator
+aio-smtplib
